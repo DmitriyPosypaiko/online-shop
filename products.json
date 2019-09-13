@@ -55,4 +55,11 @@
         "description": "Best sports car in the World",
         "price": 249999.99
     }
+    {
+        "id": "9",
+        "title": "Tesla Roadster S",
+        "image": "tesla-roadster.jpg",
+        "description": "Best sports car in the World",
+        "price": 300000.99
+    }
 ]
